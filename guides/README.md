@@ -5,5 +5,3 @@
 * How to work with files
 
 * How to make a new literal type
-
-* How to register your literal type as a virtual function
