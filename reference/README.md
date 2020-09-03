@@ -209,6 +209,19 @@ cbuf, bbuf
 forms, virfns, locfns, prims, comfns, syntax, namecs, templates
 
 ## Reader syntax
+
+* opening parenthesis (`(`)
+* closing parenthesis (`)`)
+* opening bracket (`[`)
+* closing bracket (`]`)
+* backslash (`\\`)
+* single quote (`'`)
+* backtick (`\``)
+* comma (`,`)
+* double quote (`"`)
+* broken pipe (`¦`)
+* octothorpe (`#`)
+
 ## Built-in virtual function types
 ## Details of the evaluator
 ## Errors
