@@ -164,6 +164,38 @@ print, namedups, cells, prc, ustring, prstring, presc, prsimple, prsymbol,
 prnum, rrep, irep, intchar, prpair, prelts, prn, pr, prnice
 
 ## Built-in macros
+
+fn, macro, fu, atomic, accum, record, make
+
+### Control-flow macros
+
+do, or, and, case, eif, onerr, safe, pcase, when, unless, rfn, do1, check,
+catch, whenlet
+
+### Name-binding macros
+
+let, with, iflet, aif, letu, afn, withs, bind, whenlet, awhen
+
+### Loops
+
+each, whilet, loop, while, til, for, repeat, poll, nof, drain
+
+### Defining macros
+
+def, mac, form, vir, loc, syn, tem
+
+### Macros on places
+
+set, zap, ++, --, push, pull, wipe, pop, clean, swap, pushnew
+
+### Macros on files
+
+withfile, from, to
+
+### Bquote macros
+
+bquote, comma, comma-at, splice
+
 ## Built-in constants
 ## Reader syntax
 ## Built-in virtual function types
