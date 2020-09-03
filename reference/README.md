@@ -197,6 +197,17 @@ withfile, from, to
 bquote, comma, comma-at, splice
 
 ## Built-in constants
+
+vmark, smark, i0, i1, i2, i10, i16, srzero, srone
+
+### Buffers
+
+cbuf, bbuf
+
+### Extension points
+
+forms, virfns, locfns, prims, comfns, syntax, namecs, templates
+
 ## Reader syntax
 ## Built-in virtual function types
 ## Details of the evaluator
