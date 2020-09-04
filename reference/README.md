@@ -1,32 +1,3 @@
-## Data types
-
-The four fundamental types:
-
-* symbol
-* pair
-* char
-* stream
-
-Also the following predefined predicates:
-
-* pair
-    * proper
-        * string
-    * function
-    * number
-        * real
-            * int
-                * whole
-                * pint
-                * even
-                * odd
-* char
-    * digit
-    * breakc
-    * signc
-    * intrac
-* simple
-
 ## Primitive functions
 
 * id
@@ -195,6 +166,35 @@ withfile, from, to
 ### Bquote macros
 
 bquote, comma, comma-at, splice
+
+## Data types
+
+The four fundamental types:
+
+* symbol
+* pair
+* char
+* stream
+
+Also the following predefined predicates:
+
+* pair
+    * proper
+        * string
+    * function
+    * number
+        * real
+            * int
+                * whole
+                * pint
+                * even
+                * odd
+* char
+    * digit
+    * breakc
+    * signc
+    * intrac
+* simple
 
 ## Built-in constants
 
